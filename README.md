@@ -50,7 +50,7 @@ Transformar uma máquina Dell em um servidor Proxmox VE capaz de rodar máquinas
 ---
 
 ## 📁 Estrutura do Repositório
-
+```
 homelab/
 │
 ├── README.md                        ← Explicação do escopo do projeto
@@ -64,6 +64,7 @@ homelab/
 │
 └── diagramas-e-infra/                       ← topologia de rede e infraestrutura
     └── (imagens adicionadas conforme o lab evolui)
+```
 ---
 
 ## 📓 Diário de Progresso
