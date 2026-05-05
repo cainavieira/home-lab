@@ -40,7 +40,9 @@ Transformar uma máquina Dell em um servidor Proxmox VE capaz de rodar máquinas
 |---|---|
 | Instalação do Debian 13 | ✅ Concluído |
 | Configuração de teclado (pt-BR) | ✅ Concluído |
-| Configurar Drivers da placa de rede | 🔄 Em andamento |
+| Drivers da placa de rede | ✅ Concluído |
+| IP estático configurado | ✅ Concluído |
+| Acesso remoto via SSH | ✅ Concluído |
 | Instalação do Proxmox VE | ⏳ Pendente |
 | Primeiro LXC Container | ⏳ Pendente |
 | HD secundário montado como storage | ⏳ Pendente |
@@ -49,31 +51,27 @@ Transformar uma máquina Dell em um servidor Proxmox VE capaz de rodar máquinas
 
 ## 📁 Estrutura do Repositório
 
-```
 homelab/
 │
 ├── README.md                        ← Explicação do escopo do projeto
 │
 ├── docs/                            ← diários técnicos por fase
 │   ├── semana-01-instalacao-debian.md
-│   └── semana 02-
+│   └── semana-02-configuracao-rede.md
 │
 ├── configs/                         ← cópias dos arquivos de configuração do servidor
 │   └── (arquivos adicionados conforme o lab evolui)
 │
-└── diagramas/                       ← topologia de rede e infraestrutura
+└── diagramas-e-infra/                       ← topologia de rede e infraestrutura
     └── (imagens adicionadas conforme o lab evolui)
-```
-
 ---
 
 ## 📓 Diário de Progresso
 
 | Semana | Tema | Link |
 |---|---|---|
-| Semana 01 | Instalação do Debian 12 em hardware legado | [ver doc](docs/semana-01-instalacao-debian.md) |
-
----
+| Semana 01 | Instalação do Debian 13 em hardware legado | [ver doc](docs/semana-01-instalacao-debian.md) |
+| Semana 02 | Configuração de rede, repositórios e acesso SSH | [ver doc](docs/semana-02-configuracao-rede.md) |
 
 ## 🧠 Estudo que estou fazendo em paralelo
 
