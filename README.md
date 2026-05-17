@@ -84,4 +84,4 @@ homelab/
 
 ## 💡 Por que estou fazendo isso
 
-Aprender infraestrutura de verdade exige praticar, quebrar coisas e resolver problemas reais. Esse repositório documenta os estudos teóricos que estou colocando em prática e representa meu desenvolvimento como profissional na área de tecnologia
+Aprender infraestrutura de verdade exige praticar, quebrar coisas e resolver problemas reais. Esse repositório documenta os estudos teóricos que estou colocando em prática e representa meu desenvolvimento como profissional na área de tecnologia.
