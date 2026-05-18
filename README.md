@@ -43,7 +43,7 @@ Transformar uma máquina Dell em um servidor Proxmox VE capaz de rodar máquinas
 | Drivers da placa de rede | ✅ Concluído |
 | IP estático configurado | ✅ Concluído |
 | Acesso remoto via SSH | ✅ Concluído |
-| Instalação do Proxmox VE | ⏳ Pendente |
+| Instalação do Proxmox VE | ✅ Concluído  |
 | Primeiro LXC Container | ⏳ Pendente |
 | HD secundário montado como storage | ⏳ Pendente |
 
@@ -58,6 +58,7 @@ homelab/
 ├── docs/                            ← diários técnicos por fase
 │   ├── semana-01-instalacao-debian.md
 │   └── semana-02-configuracao-rede.md
+│   └── semana-03-instalacao-promox.md
 │
 ├── configs/                         ← cópias dos arquivos de configuração do servidor
 │   └── (arquivos adicionados conforme o lab evolui)
@@ -73,6 +74,7 @@ homelab/
 |---|---|---|
 | Semana 01 | Instalação do Debian 13 em hardware legado | [ver doc](docs/semana-01-instalacao-debian.md) |
 | Semana 02 | Configuração de rede, repositórios e acesso SSH | [ver doc](docs/semana-02-configuracao-rede.md) |
+| Semana 03 | Instalação do Promox 9.1 em cima do debian 13 | [ver doc](docs/semana-03-instalacao-promox.md) |
 
 ## 🧠 Estudo que estou fazendo em paralelo
 
